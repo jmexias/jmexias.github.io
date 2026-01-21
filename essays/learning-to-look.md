@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/lookingbeyond.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/looking-beyond.jpeg">
 
 *Discovering that there’s more than meets the eye*
 
