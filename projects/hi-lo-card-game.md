@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/hilo-icon.png
 title: "HiLo Card Game"
 date: 2024
 published: false
