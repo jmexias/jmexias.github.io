@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/samesame/SameSameDif1.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/samesame/SameSameDif1.jpg"> <br>
 
 ## Starting from zero… except, not entirely.
 
@@ -21,12 +21,13 @@ From what little I’ve used of it so far, and from how limited my experience is
 
 <img width="200px" class="rounded float-start pe-4" src="../img/samesame/SameSameDif2.jpg">
 
-##Becoming an athletic coder makes way more sense than it sounds.
+## Becoming an athletic coder makes way more sense than it sounds.
 
 The athletic style of software engineering, which boils down to learning by doing and practicing (over and over), sounds intimidating and awful until you realize a lot of what you’ve learned best is taught that way. While I was taking the entry-level courses in preparation for this material, many of the professors always said to “code in pieces” or to “take breaks”. While I ultimately came up with a solution to the problem at hand, ultimately a lot of those processes are relegated to the back of my mind, because I could always review the code, and there was essentially no limit to the amount of time we had for the assignment beyond the due date. However, the introduction of fast-paced “workout” exercises and the introduced time-crunch of thinking and coding quickly and efficiently has already helped to keep the skills at the forefront of my mind.
 
 This style of learning is both stressful and enjoyable, and I weirdly like it. Continuing with the athletic analogy, I get the same feeling from learning the concepts of TypeScript through this style that I do going to the gym; Sure, the middle of a set will strain the muscle and be painful to get through, but the feeling of accomplishment and growth afterwards makes it all worth it – and the same is true of software engineering. The process can be painful, but the knowledge and skills obtained make it both worth it and enjoyable in its own right.
-Continuing to chase “gains.”
+
+## Continuing to chase “gains.”
 
 At the end of the day, sure, TypeScript can just be another language that people can throw in their toolbelt and say, “Yeah, I know how to use it”, but I view it as a means to something greater rather than the end goal. It’s a language that helps a person not only refine their skill specifically in TypeScript, but also in software engineering in its entirety. While I anticipate there to be more painful moments as we move into harder concepts, I’ll view it as another case of putting more weight on the barbell and keep on pushing through it.
 
