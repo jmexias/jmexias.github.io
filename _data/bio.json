@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "jmexias", "url": "https://github.com/jmexias" },
       { "network": "linkedin", "username": "Jaimes Mexia-Santiago", "url": "https://www.linkedin.com/in/jaimes-mexia-santiago-46378a3a5/" },
-      { "network": "instagram", "username": "jaskrais", "url": "https://instagram.com/jaskrais" }
+      { "network": "instagram", "username": "jaskrias", "url": "https://instagram.com/jaskrias" }
     ]
   },
   "interests": [
@@ -24,89 +24,63 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "WindowsOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2026-01-12",
       "endDate": "Present",
       "courses": [
+        { "name": "ICS 314" },
+        { "name": "ICS 311" },
+        { "name": "PHYS 151" },
+        { "name": "PHYS 151L" },
+        { "name": "JPN 102" }
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "U.S. Army",
+      "position": "All Source Intelligence Analyst",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-04-17",
+      "endDate": "2024-06-01",
+      "summary": "Collection Management and Distribution Manager",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official collection requests and projects within the Pacific",
+        "Drive, design and build collection management operations for end users"
+      ]
+      "summary": "Security Cooperation Program Manager",
+      "highlights": [
+        "Assist in the development, training, and collaboration between U.S. and partner nation personnel",
+        "Plan, coordinate and execute collaboration events both hosted and in outside countries"
+      ]
+      "summary": "Team Leader",
+      "highlights": [
+        "Train and develop personnel for job related tasks and skills",
+        "Develop and maintain standard operating procedured for intelligence collaboration"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Terminix Hawaii",
+      "position": "Termite and Exclusion Department Manager",
+      "website": "",
+      "startDate": "2013-07-01",
+      "endDate": "2017-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ensure customer satisfaction by training elite personnel to handle pest related issues",
+        "Supply and schedule management"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
