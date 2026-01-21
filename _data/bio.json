@@ -39,11 +39,11 @@
       "startDate": "2026-01-12",
       "endDate": "Present",
       "courses": [
-        { "name": "ICS 314" },
-        { "name": "ICS 311" },
-        { "name": "PHYS 151" },
-        { "name": "PHYS 151L" },
-        { "name": "JPN 102" }
+        "ICS 314",
+        "ICS 311",
+        "PHYS 151",
+        "PHYS 151L",
+        "JPN 102"
       ]
     }
   ],
