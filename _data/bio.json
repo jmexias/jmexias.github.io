@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jaimes Mexia-Santiago",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/jmexias.png",
+    "email": "jaimesms@hawaii.edu",
+    "phone": "808-729-0293",
+    "website": "https://jmexias.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jmexias", "url": "https://github.com/jmexias" },
+      { "network": "linkedin", "username": "Jaimes Mexia-Santiago", "url": "https://www.linkedin.com/in/jaimes-mexia-santiago-46378a3a5/" },
+      { "network": "instagram", "username": "jaskrais", "url": "https://instagram.com/jaskrais" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Coding" },
+    { "name": "Content Creation Communinity" },
+    { "name": "Web Development" },
+    { "name": "Video Gaming" },
+    { "name": "Spending time with family" }
   ],
   "skills": [
     {
