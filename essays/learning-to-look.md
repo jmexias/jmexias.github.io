@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/lookingbeyond.jpeg">
 
 *Discovering that there’s more than meets the eye*
 
@@ -24,6 +24,8 @@ Throughout my life, I’ve had many experiences where I’d be using some sort o
 
 Even though I am early in the learning process, I can still feel where there are “roadblocks” when presented certain problems. However, I also recognize when something I’ve learned previously applies to new problems and can solve it easily. That’s why my initial goal is to continue development the core competencies required of this discipline. 
 
+
+<img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/masterstudent.gif">
 
 ## The pupil desires to one day become the master
 
