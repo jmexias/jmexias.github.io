@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/PACOM.png
-title: "Official Travel Cost Estimate"
+title: "Joint Warfighter Software Development"
 date: 2023
 published: true
 labels:
