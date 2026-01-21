@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/looking-beyond.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/samesame/SameSameDif1.jpg">
 
 ## Starting from zero… except, not entirely.
 
@@ -18,6 +18,8 @@ From the perspective of a student whose entry-level coding courses make up the b
 However, the language learning process isn’t something that I can relate to putting on cruise control and not paying attention; there are many hurdles that I am working to overcome, especially as it relates to some of the ES6 features. The tutorial on some of these functions, such as destructuring and the arrow functions, was my first time learning these concepts. While conceptually I can see how powerful and time-saving some of these measures can be, putting the processes into use will take some time.
 
 From what little I’ve used of it so far, and from how limited my experience is to programming and coding in general, I find TypeScript to be a great language from a software engineering perspective. Like previously mentioned, the specificity of the language may initially cause a user some headaches as they go through the learning curve. However, those same bumps in the road become experiences that allow the user to develop the skills and insight to really think about the code they are trying to write. For me, understanding that at this point mistakes are what will help instill the knowledge into “muscle memory” creates the drive to keep pushing through and learning the language.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/samesame/SameSameDif2.jpg">
 
 ##Becoming an athletic coder makes way more sense than it sounds.
 
