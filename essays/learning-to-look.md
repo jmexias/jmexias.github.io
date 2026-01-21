@@ -11,12 +11,13 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/looking-beyond.jpeg">
 
-*Discovering that there’s more than meets the eye*
+## Discovering that there’s more than meets the eye
 
 I discovered my interest in software engineering, and all that it entails, by accident; What I wanted to do was play a videogame in a way that was more fun to me and my friends, but not what the “real” experience wanted from the player. My friends and I were appalled at what the game “Maplestory”, and its developer “Nexon” expected of its players: either hundreds of hours spent “farming” in the game or shelling out a large amount of cash. This is when I decided to host a private server for our friends, and where I first ran into C++, which I learned was a language that the server I was hosting was built on. 
 
 What started initially as utter frustration as I tried to decipher the code to make changes to the gameplay experience turned into genuine curiosity as I started to wonder why and how minor changes affected the game – or program – as a whole. Of course, while the frustration of trying to learn to code without actually knowing any fundamentals led to the eventual shutdown of my server (after about a week), the interest in coding, and software engineering, only grew from there. 
 
+<img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/masterstudent.gif">
 
 ## How do I become the man behind the curtain? Developing the tools of the trade
 
@@ -24,8 +25,6 @@ Throughout my life, I’ve had many experiences where I’d be using some sort o
 
 Even though I am early in the learning process, I can still feel where there are “roadblocks” when presented certain problems. However, I also recognize when something I’ve learned previously applies to new problems and can solve it easily. That’s why my initial goal is to continue development the core competencies required of this discipline. 
 
-
-<img width="200px" class="rounded float-start pe-4" src="../img/learning-to-look/masterstudent.gif">
 
 ## The pupil desires to one day become the master
 
