@@ -4,7 +4,7 @@ type: project
 image: img/hilo-icon.png
 title: "HiLo Card Game"
 date: 2024
-published: false
+published: true
 labels:
   - Game
   - Coding Concepts
@@ -13,9 +13,7 @@ summary: "I developed a game based on the Hi-Low playing card game for a softwar
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/hilo-pic.png" class="img-thumbnail" >
 </div>
 
 HiLo Card Game is a project that was developed for a class during the fall semester of 2024 at Leeward Community College. The program allows for the user to play a java, text based game that allows the user to play against the computer in a game of "High or Low", using an input integer as a bankroll to place bets on the next hand.
