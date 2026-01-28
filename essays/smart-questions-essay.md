@@ -83,4 +83,4 @@ Ultimately, a smart question is not just about getting an answer — it’s abou
 
 ## A note on AI Usage:
 
-Grammarly AI was used to correct for major grammatical errors within the essay.
+Grammarly AI was used to correct for major grammatical errors within the essay. ChatGPT was used to ensure all writing checklist items for technical essays were addressed.
