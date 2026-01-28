@@ -27,7 +27,41 @@ Stack Overflow is an online forum, largely used by programmers, and acts as a re
 
 In the first example, titled “How to resolve ERROR 1396 (HY000): Operation ALTER USER failed for ‘root’@‘localhost’?”, we see some of the core concepts of how to ask a smart question. Starting from the title, while more information could be provided, the user has already taken a step in the right direction by providing the specificity to the context of their problem. By looking at the contents of the post, the user goes on to describe their login issue with MySQL and details what steps they took to resolve their issue. They provide the lines of code they tried, the content of the information found within their system, as well as contextual information such as the version they are using. These details allow prospective users to see that not only has the user done their homework, but also where specifically they are getting stuck, so that they can better assist.
 
-The benefits of asking in this way can immediately be seen by not only the sheer number of responses, but also the quality of responses is generally high. These comments include information such as direct lines of code they could try to address the information, discussion as to why certain things wouldn’t work, alternate solutions, and links to other sources of information. Additionally, the post has been upvoted several times, putting additional eyes on the problem, while also maintaining relevancy, as this post was made 14 years ago, but is actively being commented on (as long as up to last year!).  By asking the questions the smart way, the amount of information that others are willing to provide can increase dramatically.
+The benefits of asking in this way can immediately be seen by not only the sheer number of responses, but also the quality of responses is generally high. Here are some of the answers this user received:
+
+```
+This has worked for me
+
+UPDATE mysql.user SET host='%' WHERE user='root' AND host='localhost';
+FLUSH PRIVILEGES;
+ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'secret';
+Reference: [1]: https://github.com/docker-library/mysql/issues/839#issuecomment-1091834886
+
+You Can try:
+
+ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '123';
+rather than
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123';
+When you use the following command
+
+mysql> use mysql;
+mysql> select user,host from user;
+you can find that root's host is '%' (note that '%' means all hosts, including remote hosts)
+
+mysql> select user, host from user;
++------------------+-----------+
+| user             | host      |
++------------------+-----------+
+| root             | %         |
+| mysql.infoschema | localhost |
+| mysql.session    | localhost |
+| mysql.sys        | localhost |
++------------------+-----------+
+
+```
+
+These comments include information such as direct lines of code they could try to address the information, discussion as to why certain things wouldn’t work, alternate solutions, and links to other sources of information. Additionally, the post has been upvoted several times, putting additional eyes on the problem, while also maintaining relevancy, as this post was made 14 years ago, but is actively being commented on (as long as up to last year!).  By asking the questions the smart way, the amount of information that others are willing to provide can increase dramatically.
 
 (Full context and information from the article can be seen [here](https://stackoverflow.com/questions/56946299/how-to-resolve-error-1396-hy000-operation-alter-user-failed-for-rootlocal)).
 
