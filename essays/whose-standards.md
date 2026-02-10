@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Same, same... but different"
+title: "Rules for Rules Sake"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-10
 published: true
@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/samesame/SameSameDif1.jpg"> <br>
+<img width="200px" class="rounded float-start pe-4" src="../img/standardisstandard.jpeg"> <br>
 
 ## Because I said so
 
@@ -26,6 +26,8 @@ After my first week of using ESLint with VSCode, my impressions went from fustra
 As we got closer to the end of the week, while the irritation hasn't completely subsided, I am starting to see why certain callouts have been put in place, and have grown to be more understanding of the standards its setting. ESLint caught more than a few logic errors that I would have never seen or understood until it was too late, and some of those same early warnings serve as gentle reminders to think about the code I've been writing. It's evolved from something that just told me I was wrong to a tool I could use to write better code, and its starting to work. 
 
 I feel as though I'm starting to anticipate some of the issues that I know ESLint will have with the things I write, and actively work to avoid it. The remaining red underlines act as a way for me to gain more insight on a topic by looking at its suggestion, or researching why its viewing the code as an error. All the while, I'm starting to internalize some of the structures of code for not just specifically Typescript, but also how to logically approach each individual problem. It's helping me to be a better software engineer as a whole.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/bcutoldmeto.jpeg"> <br>
 
 ## It's now my safety net
 
