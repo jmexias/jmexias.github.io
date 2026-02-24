@@ -39,9 +39,9 @@ Instead of writing custom lines for every change I want to make, I can describe 
 
 That single line communicates how the layout behaves across screen sizes and ensures that it is responsive. Now, instead of thinking “in the weeds” of pixel perfection, I can divert my attention to things like the overarching design layout. And it’s that adjustment in the way I think about it that further highlights the idea of it being a complement rather than a replacement.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Framework/diagram-success.png"> <br>
-
 ## Usability: Designing for Humans, Not Just Developers
+
+<img width="200px" class="rounded float-start pe-4" src="../img/Framework/diagram-success.png">
 
 When comparing Bootstrap to raw HTML and CSS, most of the discussion tends to focus on developer efficiency, preferences, and what it does or doesn’t do for the developer of the webpage. But an equally important question is: what does this do for the end-user? And usability of the end-product is where the difference becomes most visible.
 
