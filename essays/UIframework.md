@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Framework/headache.png"> <br>
+<img width="200px" class="rounded float-start pe-4" src="../img/Framework/headache.png">
 
 ## This is another language. Right?
 
