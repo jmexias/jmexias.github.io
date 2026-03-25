@@ -58,9 +58,13 @@ A landing page introducing the platform and its purpose, along with quick access
 
 **Login / Register**
 
+<img width="500px" src="../img/Proposal-Signin.png"> <br>
+
 An authentication system allowing instructors and editors to access their data and contributions.
 
 **Profile Page**
+
+<img width="500px" src="../img/Proposal-Profile.png"> <br>
 
 Displays user information, courses created and contributed content.
 
@@ -78,7 +82,7 @@ Allows instructors to:
 
 **SRCH Content Browser**
 
-<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-SRCHsearch.png"> <br>
+<img width="500px" src="../img/Proposal-SRCHsearch.png"> <br>
 
 A search tool that allows for:
 
