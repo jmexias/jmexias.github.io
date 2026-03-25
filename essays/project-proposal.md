@@ -10,6 +10,8 @@ labels:
   - Nextjs
 ---
 
+<img width="500px" class="rounded float-start pe-4" src="../img/PrEssayPic.png"> <br>
+
 ## Aligning Objectives With Safety: SRCH Navigator Proposal
 
 Modern computer science and engineering education continually changes and evolves, especially in areas such as socially responsible computing. However, while information on these topics continues to grow and develop, it is often fragmented, incomplete, or not clearly explained to the end user. Additionally, it becomes more and more difficult for instructors in this field to align their courses with these ever-changing subjects. This project proposes a system that bridges the gap between what instructors want students to learn and the content available to teach it.
@@ -147,6 +149,10 @@ Allow for the ability to share information between instructors, allowing for one
 ## Conclusion
 
 This project addresses a real challenge in modern computing education: aligning new content with structured learning goals. By combining the wider knowledge data pool with the tools proposed into a single platform, this system has the potential to significantly improve how instructors engage with educational resources. Rather than forcing instructors to adapt content found elsewhere into their courses, this tool helps them to shape content around their objectives.
+
+## Proposer
+
+Jaimes Mexia-Santiago
 
 ## Note on AI usage:
 
