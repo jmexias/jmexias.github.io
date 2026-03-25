@@ -10,7 +10,7 @@ labels:
   - Nextjs
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/PrEssayPic.png"> <br>
+<img width="500px" class="rounded float-start pe-4" src="../img/PEssayPic.png"> <br>
 
 ## Aligning Objectives With Safety: SRCH Navigator Proposal
 
