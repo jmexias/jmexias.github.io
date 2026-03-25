@@ -35,8 +35,11 @@ Essentially, instructors are given a large resource, but without the tools to ef
 This project proposes a web application that allows instructors to:
 
 •	Define their own courses, categorized using Bloom’s Taxonomy 
+
 •	Browse and search SRCH content 
+
 •	Map course learning objectives to relevant SRCH material 
+
 •	Contribute new material and share curated content with others 
 
 This system will serve as a tool to not only align curriculum with the SRCH subjects, but to allow instructors to help develop a platform that uses the SRCH as its basis. This application is designed specifically for instructors at the University of Hawai‘i at Mānoa, particularly those teaching ICS courses such as ICS 314, where integrating socially responsible computing topics into technical material is increasingly important.
@@ -47,7 +50,7 @@ To support the development of the platform, the application will use several key
 
 **Home Page**
 
-// insert picture here
+<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-Home.png> <br>
 
 A landing page introducing the platform and its purpose, along with quick access to login or course dashboards.
 
@@ -61,7 +64,9 @@ Displays user information, courses created and contributed content.
 
 **Course Management (CRUD)**
 
-// insert picture here
+<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-Courses.png> <br>
+
+<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-Curriculum.png> <br>
 
 Allows instructors to:
 
@@ -71,12 +76,14 @@ Allows instructors to:
 
 **SRCH Content Browser**
 
-// insert picture here
+<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-SRCHsearch.png> <br>
 
 A search tool that allows for:
 
 •	Viewing SRCH topics 
+
 •	Filtering by topic, difficulty, or relevance 
+
 •	Selecting content for potential inclusion 
 
 **Content Creation**
@@ -84,7 +91,9 @@ A search tool that allows for:
 Allows instructors to:
 
 •	Add new SRCH content 
+
 •	Include discussions, examples, and explanations 
+
 •	Attach bibliographic references 
 
 ## Use Case Ideas
@@ -96,6 +105,7 @@ As this system is designed to support realistic instructor workflows, the usual 
 An instructor creates a new course and defines several learning objectives, such as:
 
 •	“Understand ethical implications of AI systems” 
+
 •	“Understanding design processes behind accessibility” 
 
 Each objective will be categorized using Bloom’s Taxonomy.
@@ -111,7 +121,9 @@ After selecting the relevant topics from the SRCH, the instructor is able to org
 Because the SRCH is actively being developed, there are many gaps in the information. An instructor would be able to identify this need and:
 
 •	Create new content
+
 •	Add explanations and case studies
+
 •	Include appropriate learning objectives and references used from their courses
 
 ## Beyond the Basics
