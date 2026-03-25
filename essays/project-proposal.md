@@ -10,7 +10,7 @@ labels:
   - Nextjs
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/PEssayPic.png"> <br>
+<img width="500px" src="../img/PEssayPic.png"> <br>
 
 ## Aligning Objectives With Safety: SRCH Navigator Proposal
 
@@ -52,7 +52,7 @@ To support the development of the platform, the application will use several key
 
 **Home Page**
 
-<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-Home.png"> <br>
+<img width="500px" src="../img/Proposal-Home.png"> <br>
 
 A landing page introducing the platform and its purpose, along with quick access to login or course dashboards.
 
@@ -66,9 +66,9 @@ Displays user information, courses created and contributed content.
 
 **Course Management (CRUD)**
 
-<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-Courses.png"> <br>
+<img width="500px" src="../img/Proposal-Courses.png"> <br>
 
-<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-Curriculum.png"> <br>
+<img width="500px" src="../img/Proposal-Curriculum.png"> <br>
 
 Allows instructors to:
 
