@@ -19,9 +19,13 @@ Modern computer science and engineering education continually changes and evolve
 The Socially Responsible Computing Handbook (SRCH) is an evolving collection of content intended to support instructors. However, it is not designed as a traditional textbook for a single course. Instead, it is a resource where instructors are expected to select relevant material and apply it to their own courses, which proposes several challenges:
 
 •	Some content is too advanced or not aligned with a course’s learning objectives 
+
 •	The SRCH is incomplete and continuously evolving 
+
 •	There is no structured way to map course objectives to relevant material 
+
 •	Instructors must manually curate content, leading to inconsistency and inefficiency 
+
 •	There is no standardized workflow for sharing curated curriculum paths
 
 Essentially, instructors are given a large resource, but without the tools to effectively organize and align it to their teaching goals.
