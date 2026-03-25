@@ -50,7 +50,7 @@ To support the development of the platform, the application will use several key
 
 **Home Page**
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-Home.png"> <br>
+<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-Home.png"> <br>
 
 A landing page introducing the platform and its purpose, along with quick access to login or course dashboards.
 
@@ -64,9 +64,9 @@ Displays user information, courses created and contributed content.
 
 **Course Management (CRUD)**
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-Courses.png"> <br>
+<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-Courses.png"> <br>
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-Curriculum.png"> <br>
+<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-Curriculum.png"> <br>
 
 Allows instructors to:
 
@@ -76,7 +76,7 @@ Allows instructors to:
 
 **SRCH Content Browser**
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Proposal-SRCHsearch.png"> <br>
+<img width="500px" class="rounded float-start pe-4" src="../img/Proposal-SRCHsearch.png"> <br>
 
 A search tool that allows for:
 
