@@ -50,7 +50,7 @@ The **Observer pattern** essentially states that when one part of the system cha
 
 When we wrote server actions like:
 
-```Bash
+```ts
 export async function mapSRCHContent(formData: FormData) {
   const objectiveId = formData.get('objectiveId');
   const srchContentId = formData.get('srchContentId');
