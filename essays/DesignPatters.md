@@ -10,7 +10,7 @@ labels:
   - Nextjs
 ---
 
-<img width="500px" src="../img/ex-dp.png"> <br>
+<img width="500px" src="../img/ex-DP.png"> <br>
 
 # Design Patterns: The Playbook You Didn’t Know You Were Following
 
