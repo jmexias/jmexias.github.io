@@ -14,7 +14,7 @@ labels:
 
 # Design Patterns: The Playbook You Didn’t Know You Were Following
 
-There’s a moment in every project where things start to feel… repetitive. Not in a boring way - but in a *familiar* way. You solve one problem, then a slightly different version of it shows up again. You write some logic, then realize you’ve written something similar before. You structure one page, and suddenly every other page starts to look like it. Then you realized that some portions of your code could be refactored into a single file or page, and referenced moving forward. Of course, a new problem shows up that's ever so slightly different, and the cycle repeats.
+There’s a moment in every project where things start to feel… repetitive. Not in a boring way - but in a *familiar* way. You solve one problem, then a slightly different version of it shows up again. You write some logic, then realize you’ve written something similar before. You structure one page, and suddenly every other page starts to look like it. Then you realize that some portions of your code could be refactored into a single file or page, and referenced moving forward. Of course, a new problem shows up that's ever so slightly different, and the cycle repeats.
 
 That was my experience working on the **SRCH Curriculum Builder**.
 
@@ -50,7 +50,7 @@ The **Observer pattern** essentially states that when one part of the system cha
 
 When we wrote server actions like:
 
-```ts
+```TypeScript
 export async function mapSRCHContent(formData: FormData) {
   const objectiveId = formData.get('objectiveId');
   const srchContentId = formData.get('srchContentId');
@@ -64,7 +64,7 @@ export async function mapSRCHContent(formData: FormData) {
 }
 ```
 
-We were solving a very specific problem - How to consistently create objects without repeating logic everywhere? That’s essentially the **Factory pattern**: Centralizing creation while both hiding complexity and keeping thigs consistent. It's a way to create objects without exposing all the underlying logic every single time its needed.
+We were solving a very specific problem - How to consistently create objects without repeating logic everywhere? That’s essentially the **Factory pattern**: Centralizing creation while both hiding complexity and keeping things consistent. It's a way to create objects without exposing all the underlying logic every single time its needed.
 
 ## Patterns Aren’t the Goal — They’re the Result
 
@@ -72,8 +72,8 @@ One important thing we’ve learned is that patterns are not the goal, or someth
 
 ## So What Are Design Patterns, Really?
 
-After working through our project, I don’t think of design patterns as something you memorize for interviews anymore. I think of them as recognized ways of structuring solutions that emerge when you try to solve real problems more than once. They aren't rules, code, or even required, but they *are* reusable ideas that avoid having to relearn the same lessons over and over again.  And that’s the part that makes them stick, because eventually the realization will hit that the playbook has been being used, whether it was realized in the moment or not.
+After working through our project, I don’t think of design patterns as something you memorize for interviews anymore. I think of them as recognized ways of structuring solutions that emerge when you try to solve real problems more than once. They aren't rules, code, or even required, but they *are* reusable ideas that avoid having to relearn the same lessons over and over again.  And that’s the part that makes them stick, because I’ll keep adding new plays to my playbook—I just won’t always realize that what feels like a new solution is often something that’s already been practiced, refined, and written down somewhere else.
 
 ## Note on AI usage:
 
-The artificial AI tools ChatGPT and Grammarly AI were used primarily to develop the structuring of this essay, to include checking to ensure requirements were met. However, all design direction and writiing reflect my own understanding and knowledge of what is possible within the software engineering and design pattern topics discussed in class.
+The artificial AI tools ChatGPT and Grammarly AI were used primarily to develop the structuring of this essay, to include checking to ensure requirements were met. However, all design direction and writing reflect my own understanding and knowledge of what is possible within the software engineering and design pattern topics discussed in class.
