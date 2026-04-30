@@ -76,4 +76,4 @@ After working through our project, I don’t think of design patterns as somethi
 
 ## Note on AI usage:
 
-The artificial AI tools ChatGPT and Grammarly AI were used primarily to develop the structuring of this essay, to include checking to ensure requirements were met. However, all design direction and writiing reflect my own understanding and knowledge of what is possible within the software engineering topics discussed in class.
+The artificial AI tools ChatGPT and Grammarly AI were used primarily to develop the structuring of this essay, to include checking to ensure requirements were met. However, all design direction and writiing reflect my own understanding and knowledge of what is possible within the software engineering and design pattern topics discussed in class.
