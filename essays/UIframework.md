@@ -4,7 +4,7 @@ type: essay
 title: "Chaotic Structure or Structured Chaos: A look into UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-24
-published: true
+published: false
 labels:
   - Engineering
 ---
