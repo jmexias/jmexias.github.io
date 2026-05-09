@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ex-TTT.png
 title: "React Tic-Tac-Toe"
-date: Spring 2025
+date: Spring 2026
 published: true
 labels:
   - React
