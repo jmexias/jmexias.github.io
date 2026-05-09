@@ -4,7 +4,7 @@ type: essay
 title: "Rules for Rules Sake"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-10
-published: true
+published: false
 labels:
   - Engineering
 ---
