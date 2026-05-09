@@ -4,7 +4,7 @@ type: project
 image: img/project-excel1.png
 title: "Official Travel Cost Estimate"
 date: 2021
-published: true
+published: false
 labels:
   - Travel
   - Excel
