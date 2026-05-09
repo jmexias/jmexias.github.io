@@ -4,7 +4,7 @@ type: essay
 title: "Learning to look past what the computer wants me to see"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-20
-published: true
+published: false
 labels:
   - Engineering
 ---
