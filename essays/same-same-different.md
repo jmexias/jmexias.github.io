@@ -4,7 +4,7 @@ type: essay
 title: "Same, same... but different"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-20
-published: true
+published: false
 labels:
   - Engineering
 ---
