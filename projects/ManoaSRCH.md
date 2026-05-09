@@ -101,4 +101,6 @@ Working through these integrations helped me better understand how software arch
 
 ## Source Code
 
-GitHub Repository: [Manoa SRCH](https://github.com/manoa-srch/srch-application-project)
+GitHub Repository: [Manoa SRCH Repo](https://github.com/manoa-srch/srch-application-project)
+Deployed Application: [Manoa SRCH Curriculum Builder](https://srch.zacklown.com)
+Organization Page: [Manoa SRCH Team](https://manoa-srch.github.io/)
