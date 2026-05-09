@@ -3,15 +3,17 @@ layout: project
 type: project
 image: img/srch.png.png
 title: "Manoa SRCH Curriculum Builder"
-date: 2026
+date: Spring 2026
 published: true
 labels:
   - Software Engineering
   - React
   - Vercel
   - Typescript
-summary: "I developed a game based on the Hi-Low playing card game for a software development project at Leeward Community College in 2024."
+summary: "Participated in the development of the SRCH Curriculum Builder, a full-stack web application designed to help instructors map learning objectives to educational resources, as part of a collaborative software engineering project at the University of Hawai‘i at Mānoa in 2026."
 ---
+
+<img width="500px" src="../img/ex-SRC1.png"> <br>
 
 # SRCH Curriculum Builder
 
@@ -34,7 +36,28 @@ Some of my primary contributions included:
 - Adding features that allow instructors to reuse objectives from other curricula
 - Creating Playwright end-to-end testing for authentication flows and page validation
 
-A large portion of my work involved designing how the application handled curriculum relationships and ownership. For example, when users browse another instructor’s curriculum, they can reuse objectives as templates without modifying the original owner’s content. This required building workflows that preload objective data into new objective forms while safely copying SRCH mappings into the new course context. I also implemented improvements to the SRCH mapping experience, including workflows that allowed instructors to continue selecting multiple resources before returning to their course page.
+A large portion of my work involved designing how the application handled curriculum relationships and ownership. For example, when users browse another instructor’s curriculum, they can reuse objectives as templates without modifying the original owner’s content:
+
+```ts
+await prisma.objectiveContentMap.upsert({
+  where: {
+    learningObjectiveId_srchContentId: {
+      learningObjectiveId: objectiveId,
+      srchContentId: contentId,
+    },
+  },
+  update: { isSelected: true },
+  create: {
+    learningObjectiveId: objectiveId,
+    srchContentId: contentId,
+    isSelected: true,
+  },
+});
+```
+
+This required building workflows that preload objective data into new objective forms while safely copying SRCH mappings into the new course context. I also implemented improvements to the SRCH mapping experience, including workflows that allowed instructors to continue selecting multiple resources before returning to their course page.
+
+<img width="500px" src="../img/ex-SRC2.png"> <br>
 
 ## Technical Experience and Lessons Learned
 
